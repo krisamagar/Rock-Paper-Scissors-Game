@@ -2,7 +2,7 @@ import random
 
 def gorock(computer_choice):
     if  computer_choice==1:
-        print("\nYour choice is Rock and Computer choice is also Rock.\nMatch Tie!!!")    
+        print("\nYour choice is Rock and Computer choice is also Rock.\nMatch Tie!!!!")    
     elif computer_choice==2:
         print("\nYour choice is Rock and Computer choice is Paper.\nYou Lose the game!!!")    
     else:
